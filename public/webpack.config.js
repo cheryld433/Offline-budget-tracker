@@ -4,12 +4,11 @@ const path = require("path");
 const config = {
   mode: "production",
   entry: {
-    app: "./public/assets/js/home.js",
-    detail: "./public/assets/js/detail.js",
-    favorites: "./public/assets/js/favorites.js"
+      index: "./public/index.js"
+   
   },
   output: {
-    path: __dirname + "/public/dist",
+    path: __dirname + "./public/dist",
     filename: "[name].bundle.js"
   },
   plugins: [
