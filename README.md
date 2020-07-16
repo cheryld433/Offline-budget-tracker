@@ -23,6 +23,10 @@ With this application the user will be able to track  their withdrawals and depo
 npm install
 
 ## Usage:
+Live Demo: 
+
+
+![demo](./public/demo.gif)
 
 
 
