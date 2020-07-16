@@ -26,7 +26,7 @@ npm install
 Live Demo: 
 
 
-![demo](./public/demo.gif)
+![demo](./public/images/demo.gif)
 
 
 
