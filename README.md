@@ -20,8 +20,8 @@ With this application the user will be able to track  their withdrawals and depo
 ## Installation:
 npm install
 
-## Usage:
-Live Demo: 
+## Usage
+Live Demo:  https://radiant-escarpment-58792.herokuapp.com/
 
 
 ![demo](./public/images/demo.gif)
