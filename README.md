@@ -14,8 +14,6 @@ With this application the user will be able to track  their withdrawals and depo
 
   * [Contributors](#contributors)
 
-  * [Tests](#tests)
-
   * [Questions](#questions)
 
 
@@ -32,8 +30,6 @@ Live Demo:
 
 ## Contributors:
 Cheryl Daniels https://cheryld433.github.io/Portfolio/
-
-## Tests:
 
 
 #### Questions:
